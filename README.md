@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# 数据大屏可视化
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+使用Vue3 + Echarts实现对数据的可视化展示。
 
-## Recommended IDE Setup
+## 效果展示图
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+![image](https://github.com/coderAHai/visual-data/assets/153601898/c61b12c3-391a-44bf-b9ce-0b4f8b044cb5)
+
+## 线上预览
+
+项目通过Visual在线部署，你可以访问链接查看可视化效果展示：
+https://visual-data-go70qmbqe-coderahais-projects.vercel.app/
